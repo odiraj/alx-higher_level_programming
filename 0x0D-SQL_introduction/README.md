@@ -1,2 +1,1 @@
-#SQL intro
-
+#SQL introduction
